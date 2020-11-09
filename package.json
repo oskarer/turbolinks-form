@@ -1,0 +1,8 @@
+{
+  "name": "turbolinks-form",
+  "version": "1.0.0",
+  "main": "app/assets/javascripts/turbolinks-form-core.js",
+  "repository": "git@github.com:oskarer/turbolinks-form.git",
+  "author": "Oskar Eriksson <oskar@teamtailor.com>",
+  "license": "MIT"
+}
